@@ -3,10 +3,9 @@ This is a simple java swing application for running HQL and SQL queries for test
 How to use
 ------------------
 
-1. Copy the HQLRunner.java to your project folder.
-2. Make sure you have the hibernate artifacts are configured properly.
-3. update the main method with your session factory
-4. run the main method
+1. Copie o JPQLRunner.java para a pasta do projeto. 
+3. Atualizar a linha 72, com o name do persistence-unit.
+4. Executar o método principal
 
 Screenshot
 ------------------
